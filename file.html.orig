@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>GIT</title>
+</head>
+<body>
+<<<<<<< HEAD
+<h1>My name is Ankit Satyam</h1>
+=======
+<h1>This is Ankit Satyam</h1>
+>>>>>>> 4cb1e49 (modified by user2)
+</body>
+</html>
